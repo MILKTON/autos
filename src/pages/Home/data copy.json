@@ -1,0 +1,120 @@
+[
+  {
+    "placa": "A59APD",
+    "terminacion": "9",
+    "tecnico": "",
+    "serie": "MA6CC6CD4HT040419",
+    "modelo": "SPARK",
+    "año": 2017,
+    "vigencia": "01/10/2026"
+  },
+  {
+    "placa": "PBD7976",
+    "terminacion": "6",
+    "tecnico": "",
+    "serie": "LSGHD52H1KD089472",
+    "modelo": "AVEO",
+    "año": 2019,
+    "vigencia": "01/06/2026"
+  },
+  { "placa": "452YUT", "terminacion": "2", "tecnico": "", "serie": "3G1SF21X99S139797", "modelo": "CHEVY", "año": 2009 },
+  { "placa": "680WCH", "terminacion": "0", "tecnico": "", "serie": "3G1SF21XX9S127027", "modelo": "CHEVY", "año": 2009 },
+  { "placa": "4168VSS", "terminacion": "8", "tecnico": "", "serie": "MALAB51H1BM578715", "modelo": "ATOS", "año": 2011 },
+  { "placa": "A59APD", "terminacion": "9", "tecnico": "", "serie": "MA6CC6CD4HT040419", "modelo": "SPARK", "año": 2017 },
+  {
+    "placa": "NJH9538",
+    "terminacion": "8",
+    "tecnico": "",
+    "serie": "3G1SE51X18S153342",
+    "modelo": "CHEVY",
+    "año": 2008,
+    "vigencia": "31/12/2024"
+  },
+  {
+    "placa": "NAT5971",
+    "terminacion": "1",
+    "tecnico": "",
+    "serie": "3G1SE51X69S121424",
+    "modelo": "CHEVY",
+    "año": 2009,
+    "vigencia": "12/01/2022"
+  },
+  { "placa": "965XEL", "terminacion": "5", "tecnico": "", "serie": "3G1SF21X2AS149334", "modelo": "CHEVY", "año": 2010 },
+  { "placa": "122WPF", "terminacion": "2", "tecnico": "", "serie": "3G1SF21X29S146753", "modelo": "CHEVY", "año": 2009 },
+  { "placa": "484YGT", "terminacion": "4", "tecnico": "", "serie": "3G1SF21X1AS109617", "modelo": "CHEVY", "año": 2010 },
+  {
+    "placa": "MUU5920",
+    "terminacion": "0",
+    "tecnico": "",
+    "serie": "KL2MJ610X8C504052",
+    "modelo": "MATIZ G2",
+    "año": 2008,
+    "vigencia": "23/04/2020"
+  },
+  {
+    "placa": "NLF5193",
+    "terminacion": "3",
+    "tecnico": "",
+    "serie": "KL2MD61058C374317",
+    "modelo": "MATIZ G3",
+    "año": 2008,
+    "vigencia": "31/12/2024"
+  },
+  {
+    "placa": "MVH4569",
+    "terminacion": "9",
+    "tecnico": "",
+    "serie": "3G1SF21X69S122214",
+    "modelo": "CHEVY",
+    "año": 2009,
+    "vigencia": "16/06/2020"
+  },
+  {
+    "placa": "LYC218A",
+    "terminacion": "8",
+    "tecnico": "",
+    "serie": "3G1SF21X6BS128083",
+    "modelo": "CHEVY",
+    "año": 2011,
+    "vigencia": "22/03/2028"
+  },
+  {
+    "placa": "LB62597",
+    "terminacion": "7",
+    "tecnico": "",
+    "serie": "3FTGF17237MA21314",
+    "modelo": "FORD F150",
+    "año": 2007,
+    "vigencia": "13/03/2027"
+  },
+  { "placa": "108YRD", "terminacion": "8", "tecnico": "", "serie": "9BWAB05U9DP086342", "modelo": "GOL", "año": 2013 },
+  { "placa": "304YFC", "terminacion": "4", "tecnico": "", "serie": "9BWAB05U0CP155577", "modelo": "GOL", "año": 2012 },
+  {
+    "placa": "LUV903A",
+    "terminacion": "3",
+    "tecnico": "",
+    "serie": "3G1SF21X6BS134823",
+    "modelo": "CHEVY",
+    "año": 2011,
+    "vigencia": "04/02/2028"
+  },
+  {
+    "placa": "LWF038A",
+    "terminacion": "8",
+    "tecnico": "",
+    "serie": "MEX5H2609HT105784",
+    "modelo": "VENTO",
+    "año": 2017,
+    "vigencia": "27/02/2028"
+  },
+  {
+    "placa": "NLF5193",
+    "terminacion": "3",
+    "tecnico": "",
+    "serie": "KLZMD61058C374317",
+    "modelo": "MATIZ G2",
+    "año": 2008,
+    "vigencia": "31/12/2024"
+  },
+  { "placa": "Z21BPN", "terminacion": "1", "tecnico": "", "serie": "3G1SF21X1BS118786", "modelo": "CHEVY", "año": 2011 }
+]

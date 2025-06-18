@@ -1,0 +1,38 @@
+[
+  {
+    "placa": "PCE7205",
+    "terminacion": "5",
+    "tecnico": "CAMILO",
+    "modelo": "SPARK",
+    "serie": "3G1SF21X4AS114956",
+    "año": 2000,
+    "vigencia": "01/10/2026"
+  },
+  { "placa": "NYT3725", "terminacion": "5", "tecnico": "PABLO", "modelo": "CHEVY", "serie": "", "año": 2000, "vigencia": "15/09/2025" },
+  { "placa": "PEG3455", "terminacion": "5", "tecnico": "NERI", "modelo": "MATIZ", "serie": "", "año": 2000, "vigencia": "02/06/2027" },
+  { "placa": "NYV2777", "terminacion": "7", "tecnico": "FERNANDO", "modelo": "CHEVY", "serie": "", "año": 2000, "vigencia": "02/10/2025" },
+  { "placa": "PBM1548", "terminacion": "8", "tecnico": "FERNANDO", "modelo": "CHEVY", "serie": "", "año": 2000, "vigencia": "08/06/2026" },
+  { "placa": "LUV903A", "terminacion": "3", "tecnico": "ISMAEL", "modelo": "CHEVY", "serie": "", "año": 2000, "vigencia": "04/02/2028" },
+  { "placa": "NGW333", "terminacion": "3", "tecnico": "JOSE GABRIEL", "modelo": "MATIZ", "serie": "", "año": 2000, "vigencia": "" },
+  { "placa": "PDH9183", "terminacion": "3", "tecnico": "CAMIONETA", "modelo": "F150", "serie": "", "año": 2000, "vigencia": "13/03/2027" },
+  { "placa": "Z21BPN", "terminacion": "1", "tecnico": "LUCIO", "modelo": "CHEVY", "serie": "", "año": 2000, "vigencia": "" },
+  { "placa": "PEG9780", "terminacion": "0", "tecnico": "OVANDO", "modelo": "CHEVY", "serie": "", "año": 2000, "vigencia": "04/06/2027" },
+  {
+    "placa": "PDT9802",
+    "terminacion": "2",
+    "tecnico": "OFICINA (ENRIQUE)",
+    "modelo": "CHEVY",
+    "serie": "",
+    "año": 2000,
+    "vigencia": "20/07/2027"
+  },
+  {
+    "placa": "NNF059A",
+    "terminacion": "9",
+    "tecnico": "OFICINA (ROMAN)",
+    "modelo": "CHEVY",
+    "serie": "",
+    "año": 200,
+    "vigencia": "18/07/2029"
+  }
+]
